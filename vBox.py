@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+__author__ = ["Thiago Lopes"]
+__credits__ = ["LMSC Research group" ]
+__email__ = ["lopes.th.o@gmail.com"]
+__date__ = "April 05 of 2020"
+__version__ = "1.0.0"
 
 import MoleKing_util as mk
 
